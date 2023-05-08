@@ -173,9 +173,6 @@ footer {
   flex-flow: row wrap;
 }
 
-header {
-  padding: 15px 0;
-}
 
 header figure {
   width: 60%;
@@ -593,8 +590,7 @@ footer .contact {
   }
 
   header {
-    justify-content: space-around;
-    padding: 33px 0;
+    justify-content: flex-start;
   }
 
   header .content-wrapper {
