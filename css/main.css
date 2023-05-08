@@ -598,12 +598,12 @@ footer .contact {
   }
 
   header .content-wrapper {
-    width: 100%;
+    width: 90%;
     justify-content: space-between;
   }
 
   header figure {
-    width: 50%;
+    width: 40%;
   }
 
   header nav {
@@ -615,7 +615,7 @@ footer .contact {
   }
 
   header nav ul li {
-    width: 55%;
+    width: 45%;
     margin-right: auto;
     padding-right: 30px;
   }
