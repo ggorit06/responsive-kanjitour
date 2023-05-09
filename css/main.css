@@ -392,6 +392,7 @@ input[type=button] {
 .reviews img {
   border: 10px solid #262A2C;
   margin-bottom: 20px;
+  box-sizing: border-box;
 }
 
 
